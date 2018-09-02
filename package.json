@@ -1,0 +1,23 @@
+{
+  "name": "express-ejs",
+  "version": "1.0.0",
+  "description": "Tutorial through express and ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayKayy/express-ejs.git"
+  },
+  "author": "RayKayy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayKayy/express-ejs/issues"
+  },
+  "homepage": "https://github.com/RayKayy/express-ejs#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
