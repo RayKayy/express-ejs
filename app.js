@@ -24,6 +24,12 @@ const posts = [
     author: 'Cody',
     title: 'Events',
     body: 'Blog post number 4'
+  },
+  {
+    id: 5,
+    author: 'RayKayy',
+    title: 'Test',
+    body: 'Testing for extra data'
   }
 ]
  app.set("view engine", "ejs");
